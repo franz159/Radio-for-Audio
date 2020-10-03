@@ -39,5 +39,5 @@ http://stream.radioparadise.com/flac
 
 Once the folder structure with all the playlist is complete you will need to launch the rescan of the library in MinimServer.
 
-In your controlpoint application (for example Lumin App) you fill wind a new folder labelled as "<n> playlists", where <n> is the number of playlists you have actually configured.
+In your controlpoint application (for example Lumin App) you fill wind a new folder labelled as "> playlists", where "n" is the number of playlists you have actually configured.
 Selecting the folder of the desired playlist you will start its audio reproduction! 
