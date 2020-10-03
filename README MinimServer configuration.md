@@ -19,8 +19,10 @@ In creating the m3u playlist descriptor you need to follow the correct syntax, o
 #EXTINF:-1,[*;mp3] Audiophile Classical 
 http://94.23.201.38:8010/stream 
 
-• The value in the first row is fixed. 
+• The value in the first row is fixed
+
 • The second row include the stream type (mp3 in the example) and the stream name (Audiophile Classical) in the example
+
 • The third row contains the strema URL
 
 It is reccommended to name the ".m3u" file with the same name configured in the playlist descriptor.
@@ -37,5 +39,5 @@ http://stream.radioparadise.com/flac
 
 Once the folder structure with all the playlist is complete you will need to launch the rescan of the library in MinimServer.
 
-In your controlpoint application (for example Lumin App) you fill wind a new folder labelled as "<n> playlists", where <n> is the number of playlists you have actually configured.
+In your controlpoint application (for example Lumin App) you fill wind a new folder labelled as "n playlists", where "n" is the number of playlists you have actually configured.
 Selecting the folder of the desired playlist you will start its audio reproduction! 
