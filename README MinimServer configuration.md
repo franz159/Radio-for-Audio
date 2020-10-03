@@ -19,8 +19,10 @@ In creating the m3u playlist descriptor you need to follow the correct syntax, o
 #EXTINF:-1,[*;mp3] Audiophile Classical 
 http://94.23.201.38:8010/stream 
 
-• The value in the first row is fixed. 
+• The value in the first row is fixed
+
 • The second row include the stream type (mp3 in the example) and the stream name (Audiophile Classical) in the example
+
 • The third row contains the strema URL
 
 It is reccommended to name the ".m3u" file with the same name configured in the playlist descriptor.
