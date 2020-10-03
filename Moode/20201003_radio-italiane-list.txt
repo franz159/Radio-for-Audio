@@ -1,0 +1,74 @@
+Rai - Radio 1
+http://icestreaming.rai.it/1.mp3
+
+Rai - Radio 2
+http://icestreaming.rai.it/2.mp3
+
+Rai - Radio 3
+http://icestreaming.rai.it/3.mp3
+
+Rai - Radio Tutta Italiana
+http://icestreaming.rai.it/4.mp3
+
+Rai - Radio Classica
+http://icestreaming.rai.it/5.mp3
+
+Rai - Radio Live
+http://icestreaming.rai.it/10.mp3
+
+Rai - Radio 2 Indie
+http://icestreaming.rai.it/15.mp3
+
+RTL 102.5
+http://shoutcast.rtl.it:3010/
+
+RDS 100% Grandi Successi
+http://stream1.rds.it:8000/rds64k
+
+Radio Italia
+http://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/index_1_a-b.m3u8?sd=10&rebase=on
+
+Radio Deejay
+http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
+
+Radio 105
+http://icecast.unitedradio.it/Radio105.mp3
+
+Virgin Radio
+http://icecast.unitedradio.it/Virgin.mp3
+
+Radio 24
+http://shoutcast.radio24.it:8000/listen.pls
+
+R101
+http://icecast.unitedradio.it/r101
+
+Radio Capital
+http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8
+
+Radio m2o
+http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
+
+Radiofreccia
+http://shoutcast.rtl.it:3060/
+
+RMC Radio Monte Carlo
+http://edge.radiomontecarlo.net/RMC.mp3
+
+RMC2 Radio Monte Carlo 2
+http://edge.radiomontecarlo.net/MC2.mp3
+
+Radio Subasio
+http://onair18.xdevel.com:8152
+
+Radio Kiss Kiss
+http://ice07.fluidstream.net:8080/KissKiss.mp3
+
+Radio Radicale
+http://live.radioradicale.it:80/live.mp3
+
+RMC Radio Buddha Bar
+http://edge.radiomontecarlo.net/rmcweb002
+
+Radio Rock
+http://audio1.meway.tv:8050/;*.nsv
